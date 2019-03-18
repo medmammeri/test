@@ -3,3 +3,6 @@ def func():
 
 def feature_func():
 	return 'feature'
+
+def new_master_feature():
+	return 'voila'
