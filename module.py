@@ -6,3 +6,6 @@ def feature_func():
 
 def new_master_feature():
 	return 'voila'
+
+def head_master():
+	return 'head'
